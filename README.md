@@ -4,6 +4,8 @@ Here is the demo of this project
 
 # Weather App
 
+![preview1](https://user-images.githubusercontent.com/92743495/230665202-5f4dd3a0-b56d-4c93-b0af-b152a165cb19.png)
+
 ## Project Overview
 
 The Weather App is a dynamic web application developed using React.js that provides real-time weather information for any city around the world. Users can easily search for a city and receive data including temperature, humidity, wind speed, and other essential weather details. This project demonstrates the use of React's component-based architecture, state management, and API integration.
